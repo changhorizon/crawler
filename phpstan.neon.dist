@@ -1,0 +1,8 @@
+parameters:
+    level: max
+    phpVersion: 80200
+    paths:
+        - src
+        - tests
+includes:
+    - vendor/phpstan/phpstan-phpunit/extension.neon

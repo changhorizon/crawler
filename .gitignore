@@ -1,0 +1,17 @@
+# IDE 和编辑器相关文件
+.idea/
+
+# Composer 依赖管理器
+/vendor/
+
+# PHPStan 配置文件
+phpstan.neon
+
+# PHP CS Fixer 配置和缓存
+.php-cs-fixer.php
+.php-cs-fixer.cache
+
+# PHPUnit 配置和缓存
+phpunit.xml
+.phpunit_cache/
+.phpunit_coverage/
