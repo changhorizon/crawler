@@ -48,9 +48,9 @@ src
 ### 示例 1：基础爬取示例
 
 ```php
-use Hizpark\Crawler\Crawler;
-use Hizpark\Crawler\Http\CurlHttpClient;
-use Hizpark\Crawler\Storage\PdoDocumentStorage;
+use ChangHorizon\Crawler\Crawler;
+use ChangHorizon\Crawler\Http\CurlHttpClient;
+use ChangHorizon\Crawler\Storage\PdoDocumentStorage;
 use Psr\Log\NullLogger;
 
 $startUrl = 'https://example.com';
