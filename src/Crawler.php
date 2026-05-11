@@ -4,10 +4,10 @@ declare(strict_types=1);
 
 namespace ChangHorizon\Crawler;
 
-use DOMDocument;
-use DOMNode;
 use ChangHorizon\Crawler\Http\HttpClientInterface;
 use ChangHorizon\Crawler\Storage\DocumentStorageInterface;
+use DOMDocument;
+use DOMNode;
 use Psr\Log\LoggerInterface;
 
 class Crawler

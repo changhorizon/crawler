@@ -16,10 +16,10 @@ return (new PhpCsFixer\Config())
     ->setRiskyAllowed(true)
     ->setRules([
         // ==================== 基礎規範 ====================
-        '@PSR12'               => true,
-        '@PHP84Migration'      => true,
-        'declare_strict_types' => true,
-        'strict_param'         => true,
+        '@PSR12'                => true,
+        '@PHP8x4Migration'      => true,
+        'declare_strict_types'  => true,
+        'strict_param'          => true,
 
         // ==================== 類型系統 ====================
         'void_return'                                      => true,
