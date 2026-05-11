@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Hizpark\Crawler\Http;
+namespace ChangHorizon\Crawler\Http;
 
 class CurlHttpClient implements HttpClientInterface
 {
     private const DEFAULT_TIMEOUT = 5;
     private const MAX_REDIRECTS   = 3;
-    private const USER_AGENT      = 'Mozilla/5.0 (compatible; HizparkCrawler/1.0)';
+    private const USER_AGENT      = 'Mozilla/5.0 (compatible; ChangHorizonCrawler/1.0)';
 
     public function get(string $url): ?array
     {

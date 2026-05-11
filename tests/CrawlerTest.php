@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Hizpark\Crawler\Tests;
+namespace ChangHorizon\Crawler\Tests;
 
-use Hizpark\Crawler\Crawler;
-use Hizpark\Crawler\Http\HttpClientInterface;
-use Hizpark\Crawler\Storage\DocumentStorageInterface;
+use ChangHorizon\Crawler\Crawler;
+use ChangHorizon\Crawler\Http\HttpClientInterface;
+use ChangHorizon\Crawler\Storage\DocumentStorageInterface;
 use PHPUnit\Framework\TestCase;
 use Psr\Log\LoggerInterface;
 

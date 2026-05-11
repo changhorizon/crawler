@@ -2,12 +2,12 @@
 
 declare(strict_types=1);
 
-namespace Hizpark\Crawler;
+namespace ChangHorizon\Crawler;
 
 use DOMDocument;
 use DOMNode;
-use Hizpark\Crawler\Http\HttpClientInterface;
-use Hizpark\Crawler\Storage\DocumentStorageInterface;
+use ChangHorizon\Crawler\Http\HttpClientInterface;
+use ChangHorizon\Crawler\Storage\DocumentStorageInterface;
 use Psr\Log\LoggerInterface;
 
 class Crawler

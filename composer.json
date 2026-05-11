@@ -1,5 +1,5 @@
 {
-    "name": "hizpark/crawler",
+    "name": "changhorizon/crawler",
     "description": "Effortless recursive web crawling for comprehensive site indexing",
     "keywords": [],
     "type": "library",
@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Hizpark\\Crawler\\": "src/"
+            "ChangHorizon\\Crawler\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Hizpark\\Crawler\\Tests\\": "tests/"
+            "ChangHorizon\\Crawler\\Tests\\": "tests/"
         }
     },
     "scripts": {

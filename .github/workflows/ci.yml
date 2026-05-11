@@ -95,4 +95,4 @@ jobs:
           tag_name: ${{ github.ref_name }}
           body: |
             🎉 Release ${{ github.ref_name }}
-            [📖 README Documentation](https://github.com/hizpark/crawler#readme)
+            [📖 README Documentation](https://github.com/changhorizon/crawler#readme)

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Hizpark\Crawler\Storage;
+namespace ChangHorizon\Crawler\Storage;
 
-use Hizpark\Crawler\Document;
+use ChangHorizon\Crawler\Document;
 use PDO;
 
 class PdoDocumentStorage implements DocumentStorageInterface

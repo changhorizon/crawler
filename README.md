@@ -2,13 +2,13 @@
 
 > Effortless recursive web crawling for comprehensive site indexing
 
-![License](https://img.shields.io/github/license/hizpark/crawler?style=flat-square)
-![Latest Version](https://img.shields.io/packagist/v/hizpark/crawler?style=flat-square)
+![License](https://img.shields.io/github/license/changhorizon/crawler?style=flat-square)
+![Latest Version](https://img.shields.io/packagist/v/changhorizon/crawler?style=flat-square)
 ![PHP Version](https://img.shields.io/badge/php-8.2--8.4-blue?style=flat-square)
 ![Static Analysis](https://img.shields.io/badge/static_analysis-PHPStan-blue?style=flat-square)
 ![Tests](https://img.shields.io/badge/tests-PHPUnit-brightgreen?style=flat-square)
-[![codecov](https://codecov.io/gh/hizpark/crawler/branch/main/graph/badge.svg)](https://codecov.io/gh/hizpark/crawler)
-![CI](https://github.com/hizpark/crawler/actions/workflows/ci.yml/badge.svg?style=flat-square)
+[![codecov](https://codecov.io/gh/changhorizon/crawler/branch/main/graph/badge.svg)](https://codecov.io/gh/changhorizon/crawler)
+![CI](https://github.com/changhorizon/crawler/actions/workflows/ci.yml/badge.svg?style=flat-square)
 
 A high-performance PHP web crawler library designed to recursively scrape all pages of a single website.This library is ideal for building site search, content analysis, SEO data collection, and similar projects. It is designed to be simple, extensible, and serve as a solid foundation for web crawling and data extraction.
 
@@ -26,7 +26,7 @@ A high-performance PHP web crawler library designed to recursively scrape all pa
 ## 📦 安装
 
 ```bash
-composer require hizpark/crawler
+composer require changhorizon/crawler
 ```
 
 ## 📂 目录结构

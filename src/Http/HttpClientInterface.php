@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Hizpark\Crawler\Http;
+namespace ChangHorizon\Crawler\Http;
 
 interface HttpClientInterface
 {
