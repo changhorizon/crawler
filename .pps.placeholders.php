@@ -33,8 +33,8 @@ return [
     '8.2'     => '', // e.g., '8.2'
     'Harper Jang'     => '', // e.g., 'Harper Jang'
     'harper.jang@outlook.com'    => '', // e.g., 'harper.jang@outlook.com'
-    'Hizpark\\Crawler'   => '', // e.g., 'Hizpark\\ExampleProject'
-    'Hizpark\\Crawler\\Tests' => '', // e.g., 'Hizpark\\ExampleProject\\Tests'
+    'ChangHorizon\\Crawler'   => '', // e.g., 'ChangHorizon\\ExampleProject'
+    'ChangHorizon\\Crawler\\Tests' => '', // e.g., 'ChangHorizon\\ExampleProject\\Tests'
 
     // ─── phpunit.xml.dist ───────────────────────────────────────────
     'Crawler'       => '', // e.g., 'ExampleProject'

@@ -134,7 +134,7 @@ private function extractLinks(string $html): array
 private function resolveUrl(string $href): ?string
 ```
 
-### Hizpark\Crawler\Storage\DocumentStorageInterface
+### ChangHorizon\Crawler\Storage\DocumentStorageInterface
 
 > 定义用于文档存储的接口，包含存储与状态检测方法。
 
@@ -160,7 +160,7 @@ interface DocumentStorageInterface
 }
 ```
 
-### Hizpark\Crawler\Http\HttpClientInterface
+### ChangHorizon\Crawler\Http\HttpClientInterface
 
 > 定义用于发起 HTTP 请求的接口。
 
